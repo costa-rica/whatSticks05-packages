@@ -8,10 +8,10 @@ Here is a brief set of instructions:
 root directory: C:\Users\captian2020\Documents\whatSticks05-packages
 This is done by cloning this repo to this location
 
-3- create environment:
+2- create environment:
 python -m venv venv_wsh05
 
-2- install into pip:
+3- install into pip:
 This package is called wshpackages. 
 And in the terminal I type:
 (venv_wsh05) C:\Users\captian2020\Documents\whatSticks05-packages>pip install -e wshpackages
